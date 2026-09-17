@@ -16,12 +16,10 @@ Hi, My Name is Aadarsh Singh. I am a M.Sc. Informatics student with a background
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=a-adarshsingh&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=a-adarshsingh&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=a-adarshsingh&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=a-adarshsingh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 # 📊 GitHub Stats:
 
@@ -50,4 +48,7 @@ Hi, My Name is Aadarsh Singh. I am a M.Sc. Informatics student with a background
 
 [![](https://komarev.com/ghpvc/?username=a-adarshsingh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=a-adarshsingh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
