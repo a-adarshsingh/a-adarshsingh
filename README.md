@@ -1,5 +1,7 @@
-# 💫 About Me:
-Hi, My Name is Aadarsh Singh. I am a M.Sc. Informatics student with a background in Computer Applications, passionate about UI/UX, software development, data management, and technology. <br>I enjoy turning ideas into practical solutions while continuously improving my technical and problem-solving skills. <br>Currently exploring Java, HTML, MySQL, and modern design practices, with a focus on building meaningful projects and growing as a technology professional.
+# 💫 Hi👋,I'm Aadarsh Singh:
+👉I am a M.Sc. Informatics student with a background in Computer Applications, passionate about UI/UX, software development, data management, and technology. <br>I enjoy turning ideas into practical solutions while continuously improving my technical and problem-solving skills. <br>Currently exploring Java, HTML, MySQL, and modern design practices, with a focus on building meaningful projects and growing as a technology professional.
+
+🔗Email Me 👉 ✉️ **aadarshsingh392@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 
 ## 🌐 Socials:
@@ -30,17 +32,10 @@ Hi, My Name is Aadarsh Singh. I am a M.Sc. Informatics student with a background
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a-adarshsingh&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=a-adarshsingh&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=a-adarshsingh&theme=radical&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=a-adarshsingh&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-
-</div>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=a-adarshsingh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=a-adarshsingh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=a-adarshsingh&theme=dark&hide_border=false)
-
-
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=a-adarshsingh&theme=radical">
 
 </div><br>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
